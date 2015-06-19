@@ -9,4 +9,4 @@ This was my first attempt to create a web app with web development framework- Sh
 The web app is available here: https://sarang.shinyapps.io/distance
 
 This is a little screen shot of the Driving Distance App with a representative example!
-
+![img_ddist](/img_ddist.png)
